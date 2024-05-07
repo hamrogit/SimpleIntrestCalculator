@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleIntrestCalculator/static/css/main.285d6e93.css",
+    "main.js": "/SimpleIntrestCalculator/static/js/main.fc3b800d.js",
+    "static/js/453.c1df0254.chunk.js": "/SimpleIntrestCalculator/static/js/453.c1df0254.chunk.js",
+    "index.html": "/SimpleIntrestCalculator/index.html",
+    "main.285d6e93.css.map": "/SimpleIntrestCalculator/static/css/main.285d6e93.css.map",
+    "main.fc3b800d.js.map": "/SimpleIntrestCalculator/static/js/main.fc3b800d.js.map",
+    "453.c1df0254.chunk.js.map": "/SimpleIntrestCalculator/static/js/453.c1df0254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285d6e93.css",
+    "static/js/main.fc3b800d.js"
+  ]
+}
